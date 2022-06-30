@@ -39,6 +39,8 @@ Employee equipment should at all times be password protected. And all eligible c
 ### Compensations and benefits
 The employee's compensation is determined by their role and KPI. Apart from that, all employees are eligible for learning and traveling compensation provided by Fastdevz.
 ## 
+##
+##
 ### Tips for effectively working from home to include
 * Maintain your morning routine. *
 Just because you're not going into an office doesn't mean you should skip the things that ordinarily set you up for success. So wake up at the same time, and continue the routine that works for you.
