@@ -34,4 +34,4 @@ All employees should use the following channels for all official engagements for
 Fastdevz will provide xx laptop, a modem, keyboard, mouse, and internet only if you are working at fastdevz offices but Working from home will requared you to have all the necessary equipments, for which the employee stated in the policy is responsible for security. The equipment needs to be password protected at all times.
 ##
 ### Security
-Employee equipment should at all times be password protected. And all eligible candidates must sign the [NDA agreement attached](/Non-Disclosure Agreement (NDA))  with this policy.
+Employee equipment should at all times be password protected. And all eligible candidates must sign the [NDA agreement attached](https://github.com/fastdevz/workplace-policies-/tree/main/Non-Disclosure%20Agreement%20(NDA)) with this policy.
