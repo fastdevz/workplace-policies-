@@ -10,7 +10,7 @@ This policy applies to any employee whose job duties allow it. However, position
 The employee should be available Monday to Friday from 9 AM to 3 PM on all office communication channels.
 ##
 ### Working from home (or anywhere)
-#*Team members may work from home:*#
+#### *Team members may work from home:*
 
 -Full-time
 -Part-time (dividing daily time between the office and home)
