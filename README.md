@@ -12,9 +12,9 @@ The employee should be available Monday to Friday from 9 AM to 3 PM on all offic
 ### Working from home (or anywhere)
 #### *Team members may work from home:*
 
--Full-time
--Part-time (dividing daily time between the office and home)
--On pre-determined days of the week
+- Full-time
+- Part-time (dividing daily time between the office and home)
+- On pre-determined days of the week
 We want to give you the chance to perform at your best - no matter where you work from.
 Remote work does, however, come with a few responsibilities. So please make sure to stay available.
 We do reserve the right to revoke remote working rights in cases of repeated problems.
@@ -25,10 +25,10 @@ The eligible employee under this policy working from anywhere gets the same bene
 ### Communication
 All employees should use the following channels for all official engagements for which they will be granted access:
 
--Slack
--Google mail
--WhatsApp
--Google Meet
+- Slack
+- Google mail
+- WhatsApp
+- Google Meet
 ##
 ### Equipment
 Fastdevz will provide xx laptop, a modem, keyboard, mouse, and internet only if you are working at fastdevz offices but Working from home will requared you to have all the necessary equipments, for which the employee stated in the policy is responsible for security. The equipment needs to be password protected at all times.
