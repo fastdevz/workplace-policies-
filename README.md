@@ -68,3 +68,13 @@ It can be especially easy to let your workday creep into early mornings and even
 ##
 ### Don't watch TV
 Working near a television inhibits our ability to concentrate. So resist the urge to have the TV on, even if it's just for background noise.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
